@@ -9,14 +9,26 @@ Repositório do projeto integrador da ETE Porto Digital 2024.1
 
 ## Autores
 
-- [Ana Karina Caetano](https://github.com/AnaK-Caetano)
-- [Everton Santos](https://github.com/everton-ods)
+|Aluno                           | Email |
+|---------------------------------------|--------------|
+| [Ana Karina Caetano](https://github.com/AnaK-Caetano)| akcsm@etepd.com |
+| [Everton Santos](https://github.com/everton-ods)  |Eos@etepd.com|
+| Jonadabe Santos ||
+| Mariana Gonçalo | |
+| Pedro Henrique| |
+|Rahauny Nogueira | |
+| Thyago Henrike |  |
+| Victor Pereira |  |
+
+
+- 
+- 
 - [Jonadabe Santos](https://github.com/JonnadabeSantos)
 - [Mariana Gonçalo](https://github.com/AnaK-Caetano)
 - [Pedro Henrique](https://github.com/AnaK-Caetano)
 - [Rahauny Nogueira](https://github.com/AnaK-Caetano)
 - [Thyago Henrique](https://github.com/AnaK-Caetano)
-- [Victor Pereira](https://github.com/AnaK-Caetano)
+- [Victor Pereira](https://github.com/victorPereira2))
 
 
 
