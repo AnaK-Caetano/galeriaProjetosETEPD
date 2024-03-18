@@ -10,7 +10,7 @@ Repositório do projeto integrador da ETE Porto Digital 2024.1
 ## Autores
 
 - [Ana Karina Caetano](https://github.com/AnaK-Caetano)
-- [Everton Santos](https://github.com/AnaK-Caetano)
+- [Everton Santos](https://github.com/everton-ods)
 - [Jonadabe Santos](https://github.com/JonnadabeSantos)
 - [Mariana Gonçalo](https://github.com/AnaK-Caetano)
 - [Pedro Henrique](https://github.com/AnaK-Caetano)
