@@ -14,7 +14,7 @@ Repositório do projeto integrador da ETE Porto Digital 2024.1
 | [Ana Karina Caetano](https://github.com/AnaK-Caetano)| akcsm@etepd.com |
 | [Everton Santos](https://github.com/everton-ods)  |Eos@etepd.com|
 | [Jonadabe Santos](https://github.com/JonnadabeSantos) ||
-| [Mariana Gonçalo] ||
+| Mariana Gonçalo||
 | Pedro Henrique Marques| Phms@etepd.com |
 | Rahauny Nogueira | rans@etepd.com |
 | Thyago Henrike | thsb@etepd.com  |
